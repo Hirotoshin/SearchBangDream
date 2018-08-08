@@ -1,7 +1,41 @@
 .App {
   text-align: center;
 }
-
+.popipa {
+  position:absolute;
+  left:40px;
+  top:160px;
+  width:100px;
+  height:50px;
+}
+.roselia {
+  position:absolute;
+  left:210px;
+  top:160px;
+  width:100px;
+  height:50px;
+}
+.pasupare {
+  position:absolute;
+  left:370px;
+  top:160px;
+  width:100px;
+  height:50px;
+}
+.afuro {
+  position:absolute;
+  left:540px;
+  top:160px;
+  width:100px;
+  height:50px;
+}
+.harohapi {
+  position:absolute;
+  left:710px;
+  top:160px;
+  width:100px;
+  height:50px;
+}
 
 title{
   color: white;
