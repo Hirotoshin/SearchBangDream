@@ -5,11 +5,11 @@ export class PastelPalettes extends Component{
     render(){
         return(
             <div>
-                丸山
-                ひな
-                ちさと
-                まやどの
-                ぶしどー
+                <h1>丸山</h1>
+                <h1>ひな</h1>
+                <h1>ちさと</h1>
+                <h1>まやどの</h1>
+                <h1>ブシどー</h1>
             </div>
         )
     }
