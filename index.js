@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import {BangDream} from './Component/BangDream';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+
+var memberlist = ["hoge"];
+
+
+ReactDOM.render(<BangDream members={memberlist}/>, document.getElementById('bang'));
 registerServiceWorker();

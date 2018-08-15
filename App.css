@@ -1,6 +1,29 @@
 .App {
   text-align: center;
 }
+.toyama{
+  color:red;
+  font-size:30px;
+}
+.colorstyle{
+  color :red;
+  background-color:black;
+  padding:40px 780px;
+}
+.textsize {
+  position:absolute;
+  right:90px;
+  top:60px;
+  width:200px;
+  height:50px;
+}
+.buttonsize {
+  position:absolute;
+  right:40px;
+  top:60px;
+  width:50px;
+  height:50px;
+}
 .popipa {
   position:absolute;
   left:40px;
