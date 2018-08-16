@@ -1,10 +1,10 @@
 import React, {Component} from "react";
-import '../App.css';
+import '../CSS/App.css';
 
 export class PastelPalettes extends Component{
     render(){
         return(
-            <div>
+            <div className={"pasuparePosition"}>
                 <h1>丸山</h1>
                 <h1>ひな</h1>
                 <h1>ちさと</h1>

@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
-import '../App.css';
+import '../CSS/App.css';
 
 export class Afterglow extends Component{
     render(){
         return(
-            <div>
+            <div className={"afterglowPosition"}>
                 <h1>らん</h1>
                 <h1>もか</h1>
                 <h1>ひまり</h1>

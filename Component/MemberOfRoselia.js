@@ -1,10 +1,10 @@
 import React, {Component}from 'react';
-import '../App.css';
+import '../CSS/App.css';
 
 export class Roselia extends React.Component{
     render(){
         return(
-            <div>
+            <div className={"roseliaPosition"}>
                 <h1>ゆきな</h1>
                 <h1>さよ</h1>
                 <h1>りさ</h1>

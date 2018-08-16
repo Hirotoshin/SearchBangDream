@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
-import '../App.css';
+import '../CSS/App.css';
+import '../CSS/NameTextPosition.css';
+import '../CSS/Button.css';
 import {Poppin, PoppinParty} from "./MemberOfPoppinParty";
 import {Roselia} from "./MemberOfRoselia";
 import {PastelPalettes, pasupare} from "./MemberOfPastelPalettes";
